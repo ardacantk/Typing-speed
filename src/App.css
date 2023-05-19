@@ -1,38 +1,38 @@
-.App {
-  text-align: center;
+#textAreaDiv {
+    display: flex;
+    justify-content: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#inputDiv {
+    display: flex;
+    justify-content: center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#headerDiv {
+    display: flex;
+    justify-content: center;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#dropDown  {
+    width: 150px;
+    height: 50px;
 }
 
-.App-link {
-  color: #61dafb;
+#dropDowntext {
+    display: flex;
+    align-items: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#resultCard {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
 }
+
+#pressed, #percent, #correct, #wrong {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
