@@ -1,3 +1,8 @@
+![hw1](https://github.com/ardacantk/Typing-speed/assets/95983921/176b4423-caa2-4b7d-8cba-ba7e5c88b7bf)
+![hw2](https://github.com/ardacantk/Typing-speed/assets/95983921/f3a7f130-f600-4f67-8160-723ce3e518e3)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
